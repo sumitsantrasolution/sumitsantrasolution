@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 # 🚀 About Me
 
@@ -28,7 +27,6 @@ Focus:
   - Performance Optimization
 ```
 
----
 
 # 💻 Tech Stack
 
@@ -38,7 +36,6 @@ Focus:
 
 </p>
 
----
 
 # 🌟 Featured Projects
 
@@ -52,7 +49,6 @@ Focus:
 - Premium UI
 - Privacy Focused
 
----
 
 ## 🔹 Nexus-Enterprise
 
@@ -63,7 +59,6 @@ Focus:
 - Modern Dashboard
 - Secure Architecture
 
----
 
 ## 🔹 rubina-core
 
@@ -74,7 +69,6 @@ Focus:
 - Firebase Integration
 - Cloud Ready
 
----
 
 # 📊 GitHub Statistics
 
@@ -86,7 +80,6 @@ Focus:
 
 </p>
 
----
 
 # 📈 Most Used Languages
 
@@ -96,7 +89,6 @@ Focus:
 
 </p>
 
----
 
 # 🏆 GitHub Trophies
 
@@ -106,7 +98,6 @@ Focus:
 
 </p>
 
----
 
 # 🔥 Contribution Graph
 
@@ -116,7 +107,6 @@ Focus:
 
 </p>
 
----
 
 # 🎯 Current Goals
 
@@ -125,7 +115,6 @@ Focus:
 - 🔒 Improve secure communication systems
 - 📚 Learn new technologies continuously
 
----
 
 # 📬 Connect
 
@@ -137,7 +126,6 @@ Focus:
 
 </p>
 
----
 
 <div align="center">
 

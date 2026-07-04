@@ -1,136 +1,167 @@
-<div align="center">
+::: {align="center"}
+`<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=WELCOME+TO+MY+GITHUB;SUMIT+SANTRA;ANDROID+%26+WEB+DEVELOPER;BUILDING+PRACTICAL+SECURE+EFFICIENT+SOLUTIONS" />`{=html}
 
-# 👋 Hi, I'm Sumit Santra
+```{=html}
+<h1>
+```
+⚡ SUMIT SANTRA ⚡
+```{=html}
+</h1>
+```
+```{=html}
+<p>
+```
+`<b>`{=html}Android • Web • Firebase • Python`</b>`{=html}
+```{=html}
+</p>
+```
+`<img src="https://komarev.com/ghpvc/?username=sumitsantrasolution&label=Profile%20Views&color=00E5FF&style=for-the-badge"/>`{=html}
+:::
 
-### Android & Web Developer • Building Practical, Secure & Efficient Solutions
+------------------------------------------------------------------------
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Android+Developer;Web+Developer;Firebase+Developer;Python+Developer;Open+Source+Enthusiast;Building+Modern+Applications" />
+::: {align="center"}
+```{=html}
+<h2>
+```
+💠 About Me
+```{=html}
+</h2>
+```
+:::
 
-</div>
-
-
-# 🚀 About Me
-
-```yaml
+``` yaml
 Name: Sumit Santra
-
-Role: Android & Web Developer
-
-Location: India
-
+Brand: SSS
+Role:
+  - Android Developer
+  - Web Developer
 Focus:
-  - Android Development
-  - Progressive Web Apps
+  - Modern UI/UX
+  - Secure Applications
   - Firebase
-  - Secure Communication
-  - UI/UX
+  - Progressive Web Apps
   - Performance Optimization
 ```
 
+------------------------------------------------------------------------
 
-# 💻 Tech Stack
+::: {align="center"}
+```{=html}
+<h2>
+```
+⚙️ Tech Stack
+```{=html}
+</h2>
+```
+`<img src="https://skillicons.dev/icons?i=html,css,js,python,firebase,git,github,vscode,androidstudio" />`{=html}
+:::
 
-<p align="center">
+------------------------------------------------------------------------
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,firebase,git,github,vscode,androidstudio" />
+::: {align="center"}
+```{=html}
+<h2>
+```
+🚀 Featured Projects
+```{=html}
+</h2>
+```
+:::
 
-</p>
+### 🔹 BOND-SR
 
+-   Secure Private Communication Platform
+-   Audio Calling
+-   Video Presence
+-   Premium UI
 
-# 🌟 Featured Projects
+### 🔹 Nexus-Enterprise
 
-## 🔹 BOND-SR
+-   Enterprise Platform
+-   Smart Dashboard
+-   Secure Architecture
 
-> Secure Private Communication Platform
+### 🔹 rubina-core
 
-- Secure Chat
-- Audio Calling
-- Video Presence
-- Premium UI
-- Privacy Focused
+-   Python Backend
+-   Authentication
+-   Firebase Integration
+-   Cloud Ready
 
+------------------------------------------------------------------------
 
-## 🔹 Nexus-Enterprise
+::: {align="center"}
+```{=html}
+<h2>
+```
+📊 GitHub Stats
+```{=html}
+</h2>
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumitsantrasolution&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsantrasolution&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
 
-> Advanced Content Moderation Platform
+`<br>`{=html}`<br>`{=html}
 
-- Smart Moderation
-- Enterprise Ready
-- Modern Dashboard
-- Secure Architecture
+`<img height="170" src="https://streak-stats.demolab.com?user=sumitsantrasolution&theme=tokyonight&hide_border=true"/>`{=html}
+:::
 
+------------------------------------------------------------------------
 
-## 🔹 rubina-core
+::: {align="center"}
+```{=html}
+<h2>
+```
+🏆 Trophies
+```{=html}
+</h2>
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=sumitsantrasolution&theme=tokyonight&no-frame=true&column=4"/>`{=html}
+:::
 
-> Python Backend
+------------------------------------------------------------------------
 
-- Authentication
-- API Services
-- Firebase Integration
-- Cloud Ready
+::: {align="center"}
+```{=html}
+<h2>
+```
+📈 Activity Graph
+```{=html}
+</h2>
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsantrasolution&theme=tokyo-night&hide_border=true"/>`{=html}
+:::
 
+------------------------------------------------------------------------
 
-# 📊 GitHub Statistics
+::: {align="center"}
+```{=html}
+<h2>
+```
+🎯 Current Mission
+```{=html}
+</h2>
+```
+Building premium Android apps • Modern web applications • Secure
+communication • Performance first • Continuous learning
+:::
 
-<p align="center">
+------------------------------------------------------------------------
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumitsantrasolution&show_icons=true&theme=tokyonight&hide_border=true"/>
+::: {align="center"}
+`<a href="https://github.com/sumitsantrasolution">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>`{=html}
+`</a>`{=html}
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsantrasolution&theme=tokyonight&hide_border=true"/>
+`<br>`{=html}`<br>`{=html}
 
-</p>
-
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsantrasolution&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sumitsantrasolution&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
-
-# 🔥 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsantrasolution&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
-
-# 🎯 Current Goals
-
-- 🚀 Build high-quality Android apps
-- 🌐 Create modern web platforms
-- 🔒 Improve secure communication systems
-- 📚 Learn new technologies continuously
-
-
-# 📬 Connect
-
-<p align="center">
-
-<a href="https://github.com/sumitsantrasolution">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=sumitsantrasolution&style=for-the-badge&color=blue)
-
-### ⭐ Thanks for visiting my profile ⭐
-
-</div>
+```{=html}
+<h3>
+```
+⭐ Building Better Software Every Day ⭐
+```{=html}
+</h3>
+```
+`<b>`{=html}Powered by SSS`</b>`{=html}
+:::
